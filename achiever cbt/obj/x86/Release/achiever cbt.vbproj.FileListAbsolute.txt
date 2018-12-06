@@ -1,0 +1,18 @@
+C:\Users\ACHIEVER\Documents\Visual Studio 2010\Projects\achiever cbt\achiever cbt\bin\Release\achiever cbt.exe.manifest
+C:\Users\ACHIEVER\Documents\Visual Studio 2010\Projects\achiever cbt\achiever cbt\bin\Release\achiever cbt.application
+C:\Users\ACHIEVER\Documents\Visual Studio 2010\Projects\achiever cbt\achiever cbt\bin\Release\achiever cbt.exe
+C:\Users\ACHIEVER\Documents\Visual Studio 2010\Projects\achiever cbt\achiever cbt\bin\Release\achiever cbt.pdb
+C:\Users\ACHIEVER\Documents\Visual Studio 2010\Projects\achiever cbt\achiever cbt\bin\Release\achiever cbt.xml
+C:\Users\ACHIEVER\Documents\Visual Studio 2010\Projects\achiever cbt\achiever cbt\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\ACHIEVER\Documents\Visual Studio 2010\Projects\achiever cbt\achiever cbt\obj\x86\Release\WindowsApplication1.Form2.resources
+C:\Users\ACHIEVER\Documents\Visual Studio 2010\Projects\achiever cbt\achiever cbt\obj\x86\Release\WindowsApplication1.Form3.resources
+C:\Users\ACHIEVER\Documents\Visual Studio 2010\Projects\achiever cbt\achiever cbt\obj\x86\Release\WindowsApplication1.Form4.resources
+C:\Users\ACHIEVER\Documents\Visual Studio 2010\Projects\achiever cbt\achiever cbt\obj\x86\Release\WindowsApplication1.Form5.resources
+C:\Users\ACHIEVER\Documents\Visual Studio 2010\Projects\achiever cbt\achiever cbt\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\ACHIEVER\Documents\Visual Studio 2010\Projects\achiever cbt\achiever cbt\obj\x86\Release\achiever cbt.TrustInfo.xml
+C:\Users\ACHIEVER\Documents\Visual Studio 2010\Projects\achiever cbt\achiever cbt\obj\x86\Release\achiever cbt.exe.manifest
+C:\Users\ACHIEVER\Documents\Visual Studio 2010\Projects\achiever cbt\achiever cbt\obj\x86\Release\achiever cbt.application
+C:\Users\ACHIEVER\Documents\Visual Studio 2010\Projects\achiever cbt\achiever cbt\obj\x86\Release\achiever cbt.exe
+C:\Users\ACHIEVER\Documents\Visual Studio 2010\Projects\achiever cbt\achiever cbt\obj\x86\Release\achiever cbt.xml
+C:\Users\ACHIEVER\Documents\Visual Studio 2010\Projects\achiever cbt\achiever cbt\obj\x86\Release\achiever cbt.pdb
+C:\Users\ACHIEVER\Documents\Visual Studio 2010\Projects\achiever cbt\achiever cbt\obj\x86\Release\achiever cbt.vbproj.GenerateResource.Cache

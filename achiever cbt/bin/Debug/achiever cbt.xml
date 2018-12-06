@@ -1,0 +1,57 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+achievercbt
+</name>
+</assembly>
+<members>
+<member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.am">
+	<summary>
+  Looks up a localized string similar to  
+
+This Application was developed by OSANYINPEJU HAMMED OLALEKAN WALESTAR SUCCESSTAR 
+for all Nigerian jambite.I wish you all best of luck in your admission procurement,
+stay bless and God bless you all.
+
+
+ Mail : osanyinpejuhammed35@gmail.com
+	osanyinpejuhammed@yahoo.com
+
+phone : 2347061855688
+	2347040195551 
+
+   You can also reach me through;
+
+ www.facebook.com/am.goal
+ www.facebook.com/successtar1
+ www.getfact.blogspot.com.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.One_Luv">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Photo0698">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Photo06981">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:WindowsApplication1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
